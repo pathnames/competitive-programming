@@ -1,1 +1,1 @@
-# spoj-problems
+# Competitive Programming Problems
